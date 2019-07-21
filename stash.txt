@@ -1,1 +1,3 @@
 this is regarding stash command
+this is regardin pull command
+
